@@ -69,6 +69,9 @@ artifacts/
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
+Lesson_2/HomeWork/Program.cs
+Lesson_2/HomeWork/HomeWork.csproj
+
 # StyleCop
 StyleCopReport.xml
 
