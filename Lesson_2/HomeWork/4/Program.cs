@@ -9,7 +9,6 @@ if (num > 0)
         set_of_num = num % 10 + "," + set_of_num;
         num = num / 10;
     }
-    // set_of_num = set_of_num.Trim({ ',' });
     Console.Write(set_of_num.Trim(',') + "\n");
 }
 else
